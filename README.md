@@ -48,9 +48,9 @@ tda_month1_starter/
 - Build simple CLI scripts and a small data processing client mini-project.
   
 **Files you will Create**:
- - > `calculator.py` → Build a simple calculator for +, -, *, /.
- - > `temp_converter.py` → Convert Celsius ↔ Fahrenheit.
- - > `avg_temperature.py` → Load `temperatures.csv` and compute average.
+ -  `calculator.py` → Build a simple calculator for +, -, *, /.
+ -  `temp_converter.py` → Convert Celsius ↔ Fahrenheit.
+ -  `avg_temperature.py` → Load `temperatures.csv` and compute average.
 
  Run with:
 ```bash
